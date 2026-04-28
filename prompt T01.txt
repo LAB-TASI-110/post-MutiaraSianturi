@@ -1,0 +1,82 @@
+NAMA    : MUTIARA Y.H. SIANTURI
+NIM     : 12S24045
+
+
+1. jadi kami akan melakukan praktikum pemrograman berorientasi objek dengan instruksi soal : Suatu sore yang cukup sibuk di kampus, dua mahasiswa IT Del, Ucok dan Butet, sedang duduk di depan asrama sambil memandangi beberapa dus besar yang tergeletak di samping mereka. Setelah menyelesaikan minggu yang penuh dengan tugas kuliah dan praktikum, mereka akhirnya punya waktu untuk mengirimkan beberapa barang ke kampung halaman masing-masing.
+
+“Waduh, kalau kita kirim lewat jasa biasa mahal juga ya,” kata Butet sambil menimbang salah satu dus miliknya.
+
+Ucok kemudian tersenyum dan menunjuk sebuah brosur yang ia temukan di papan pengumuman kampus.
+
+“Tenang saja, Tet. Katanya ada jasa pengiriman baru namanya Del-Express. Sistemnya transparan dan perhitungannya otomatis,” ujar Ucok.
+
+Butet langsung terlihat tertarik. “Wah, cocok nih. Kita kan anak IT, masa masih pakai hitung manual!”
+
+Mereka pun berjalan menuju kantor layanan Del-Express yang berada tidak jauh dari kampus. Setibanya di sana, mereka melihat sebuah papan besar berisi daftar ongkos kirim per kilogram ke beberapa kota tujuan.
+
+<p align="center">
+  <img src="image/ongkir.png" width="500">
+</p>
+
+Tidak jauh dari papan daftar ongkir, terdapat sebuah poster promo menarik yang ditempel di dinding.
+
+<p align="center">
+  <img src="image/promo.png" width="400">
+</p>
+
+Saat petugas menimbang paket mereka, ternyata terdapat sedikit perbedaan ukuran dus yang mereka gunakan.
+<p align="center">
+  <img src="image/perbandingan.png" width="500">
+</p>
+
+Petugas Del-Express kemudian menjelaskan bahwa sistem pengiriman mereka bekerja secara otomatis. Petugas hanya perlu memasukkan kode kota tujuan serta berat paket milik Butet, dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket milik Ucok.
+<p align="center">
+  <img src="image/kode.png" width="500">
+</p>
+
+**Input**
+
+```bash
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+```
+
+**Output**
+Struk Pembayaran yang terdiri dari:
+Kota tujuan,
+Berat paket Butet,
+Berat paket Ucok,
+Total berat,
+Total ongkos kirim,
+Informasi promo yang diperoleh.   Nah jadi ini memecahkan solusi pemrograman nya dalam bahasa Java ya dan untuk batasan dalam mengerjakan soal ini saya rasa tidka ada konteks kekhususan yang spesifik cukup sesuai dengan apa yang diminta dan tidak error kemudian menujukkan output yang benar  dan sesuai dengan apa yang diharapkan. kemudian untuk model nya ini kan terdiri dari Model1.java dengan mentrahan code nya : package model;
+
+public class Model1 {
+	
+}    berikan sesuai dnegan apa yang diminta dan bimbing dengan baik!
+
+2. nah sesuai dnegan gambar promo yang di dapat yaitu diskon ongkir sebesar 10%  dan mendapatkan asuranmsi gratis dengan syarat Total berat pengirimna lebih drai 30 kg dan pengiriman ke kota luaur pulau.
+
+3.apa pengaruh nya promo pada code programan ini? dan apakah ini telah sesuai dengan apa yang diminta??/ kemudian adakah yang menunjukkan dia gapunya promo gitu?? dan code final untuk Driver1.java nyaa yang mana????package driver;
+
+public class Driver1 {
+	public static void main(String[] args) {
+		
+	}
+}
+
+4.adakah lagi informasi yang and abutuhkan terkait gambar?? karna saya tidak bisa mengirim gambar disini.
+
+5.nah kondisi dimana Saat petugas menimbang paket mereka, ternyata terdapat sedikit perbedaan ukuran dus yang mereka gunakan. yakni Butet 1 kg *kg dan Ucok 3/2 *berat paket Butet!  kemudian Petugas Del-Express kemudian menjelaskan bahwa sistem pengiriman mereka bekerja secara otomatis. Petugas hanya perlu memasukkan kode kota tujuan serta berat paket milik Butet, dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket milik Ucok.   daftar kdoe kota yaitu dengan MDN kota tujuan medan, BLG Balige, JKT Jakarta dan SBY surabaya. kemdian ini mksdnya gmn
+
+6.nominal nya itu berpenagruh kah??
+
+7.adaklah kondisi tidak ada nominalll gitu? atau tdiak ada maksimum minimum nya??
+
+8.untuk tarif asumsi sepertti apa yg diminta'
+

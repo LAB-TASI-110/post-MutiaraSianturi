@@ -1,0 +1,44 @@
+NAMA    : MUTIARA Y.H. SIANTURI
+NIM     : 12S24045
+
+1. nah untuk T02.java nya instruksi nya : Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok barang dipisahkan. Input:
+
+1.	Jumlah total data (N).
+2.	Deret stok (s1, s2, ..., sN).
+3.	Kode kategori barang.
+
+<p align="center">
+  <img src="image/rak.png" width="300">
+</p>
+
+Tugas Buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta. berikan dna bimbing saya dnegan baik untuk solusi pemrograman Driver2.java nyaa ya! 
+
+2. untuk final code yang Driver2.java dan Driver1.java yang anda kirim tadi atas apakah telah sesuaiii??? terus apa perbadaannnyta? bisakah anda kirim ulang final code nya dengan benar dna sesuai apa yang diminta soal??
+
+3. nah untuk gambar visual rak nya saya tidak bisa mengirim kesini karena Limit pengiriman gambar telah habis. Nah baik saya akan menejalaskan jd gambar rak nya tersebut yaitu kyk gambaran kertas yang bertingkat gitu nah saya akan mengurutkan dr gambar kertas yang urutannya diatasyaitu diawali dnegan 22pcs DASI SD, 85pcs GULA, 5pcs ROK PRAMUKA dan 120pcs MINYAK! nah berikann code nyaa dengan benar dan sesauai dengan informais yang saya berikan dan tidka menampilkan eeror ya!
+
+4. saya kurang paham mengenai pola rak tersebut dan bagaimana peranannnya terhadap implementasi pemecahan code yang anda berikan. Bisakah anda jelaskan dnengan bahasa yang mudah dipahami?
+
+5. yang dimaksud dengan kalimat : Karena polanya berulang setiap 4 data ini apa maksudnya?? kemudian kenapa pakai modulo?? karna penjelasan yang anda berikan diatas tersebut kurang mendukung pemahaman saya.
+
+6. baik. Kemudian untuk peranann setiap ukuran pcs di rak tersebut apa ya??? dalam amsing" barang di rak itu? dan kenapa dia berurutan dr yang terkecil ke terbesar?
+
+7. kalo misalnya nilai stok pada soal melebihi atau kurang dari stok yg tersedia apa yang terjadi?? apakah haruss dibatasi?
+
+8. pada soal ya ini ada ga dibatasi atau sesuai??
+
+9. berdasarkan solusi code yang and aberikan pada driver2.java ini udh sesuai kah? atau ada informais kurang??
+
+10. pada soa T02 gaada sih diminta hasil inputannnya hanya diinstruksikan : Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok barang dipisahkan. Input:
+
+1.	Jumlah total data (N).
+2.	Deret stok (s1, s2, ..., sN).
+3.	Kode kategori barang.
+
+<p align="center">
+  <img src="image/rak.png" width="300">
+</p>
+
+Tugas Buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta.
+
+11. jaid sudah sesuai kan?? dan ada informasi visual yang anda butuhkan??

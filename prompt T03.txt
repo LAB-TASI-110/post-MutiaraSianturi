@@ -1,0 +1,37 @@
+NAMA    : MUTIARA Y.H. SIANTURI
+NIM     : 12S24045
+
+1. baik untuk instruksi soal berikutnya yaitu membuat program dari sebuah sistem yang mendukung operasional kafetaria IT Del. Yang dimana kafetaria di Del bisa dibilang masih banyak aktifitas manual yang dikerjakan sehingga membuat waktu kurang efisien bagi pembeli yang merupakan Mahasiswa,Dosen,Staff/Pegawai yang membeli. Nah untuk contoh kasus yang saya angkat yakni ketika saya memesan Makanan dan minuman di kafetaria 
+sistem nya itu masih memesan secara manual contohnya memesan di tempat langsung dengan mengelist apa yang saya minta berdasarkan kertas menu yang disediakan oleh penjual kafetaria nya, dan itupun mereka yang 
+membuat list nya sendiri dan menanyakan kepada pembeli atas nama kami. Kemudian ketika memesan melalui online seperti cht WhatsApp itu juga kami nge list kemudian menjemput ketika pesanannnya sudah selesai dimasak. Nah berdasarkan case inilah saya menginginkan aplikasi atau website pemesanan kafetaria gitu supaya pemesanannya secara online dan 
+bisa membuat dna update status nya apakah sedang dimasak,siap untuk dijemput atau stok nya tidka tersedia gitu agar para pembeli dapat mengetahui otomatis dengan baik! 
+
+2. dari case yang saya berikan diatas, apakah itu cukup dan sesuai dan cocok untuk membuat sistem yang mendukung peningkatan operasional kafetaria??
+
+3. nah terimakasih sarannnya! saya akan menambahi untuk dekripsi : stok makanan otomatis berkurang saat dipesan
+validasi jika stok habis → “tidak tersedia”
+sistem antrian pesanan
+waktu estimasi masak
+
+4. nah, apakah setelah sayaa tambahin deksripsi nya ini sudah sesuai? 
+adakah informasi yang anda butuhkan sebelum code pemrogramannnya ada berikan??? dna berikan penjelasa  pengarahan bimbingan kepada saya dengan mudah dipahami
+
+5. oke coba berikan code final nya agar saya bisa melihat serta penjelasannnya dnegan terarah
+
+6. saya mau dnegan mentahan code : package driver;
+
+public class Driver3 {
+	public static void main(String[] args) {
+		
+	}
+}
+
+7. Dimana letak OOP berdasarkan solusi pemrograman kafetaria ini??
+
+8. nah untuk queue nya snagat berpengaruh kah ketika memesan makanan?? jika wkatu antriannya lama dan seidkit adakah ketentuan spesifik yg dibutuhkan?
+
+9. nah disini berarti untuk atribut dan kelas nya apa saja yang dibutuhkan?
+
+10. kemudian untuk database nya apa yg digunakan? sudah benarkan final code nya tersbut?? dna sesuai? atau ada informasi tambahan?
+
+11. namun secara keseluruhan udah sesuai dalam peningkatan operasional kafetaria kan?
